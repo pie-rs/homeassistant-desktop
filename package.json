@@ -25,11 +25,11 @@
     "electron-log": "^4.4.8",
     "electron-store": "^8.1.0",
     "electron-traywindow-positioner": "^1.1.1",
-    "electron-updater": "^4.6.5"
+    "electron-updater": "^6.3.0"
   },
   "devDependencies": {
-    "electron": "21.2.0",
-    "electron-builder": "^23.0.0"
+    "electron": "22.3.25",
+    "electron-builder": "^25.1.8"
   },
   "engines": {
     "node": ">= 16"
